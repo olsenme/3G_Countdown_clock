@@ -1,0 +1,31 @@
+html{
+background: url(https://i.postimg.cc/zBBC9dNZ/space2.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  color:white;
+}
+body{
+  font-family:Anton;
+  text-align:center;
+  font-family: Impact,sans-serif;
+}
+#greeting{
+  font-size: 3em;
+}
+#clock{
+  font-size: 2.5em;
+  font-weight:bold; 
+  text-shadow: 0px 5px #000000 ;
+}
+#clockPosition{
+  text-align: center;
+}
+.center {
+    display: block;
+    margin-top: 1em;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
